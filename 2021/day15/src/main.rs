@@ -1,10 +1,11 @@
 #![allow(non_snake_case)]
 
-type Result<T> = std::result::Result<T, Box<dyn std::error::Error>>;
 use std::{
     collections::{BinaryHeap, HashMap, HashSet, VecDeque},
     fs,
 };
+
+type Result<T> = std::result::Result<T, Box<dyn std::error::Error>>;
 
 fn main() -> Result<()> {
     let file = fs::read_to_string("src/in.1")?;
@@ -39,12 +40,8 @@ fn main() -> Result<()> {
     let rd: Vec<isize> = vec![0, 0, 1, -1];
     let cd: Vec<isize> = vec![1, -1, 0, 0];
 
-    let mut ret = 0;
-
     while !Q.is_empty() {
-        // emptiness is guarded by while condition
         let (dist, r, c) = Q.pop().unwrap();
-        println!("{} {} {}", r, c, dist);
         if r < 0 || c < 0 || r >= (R * 5) as isize || c >= (C * 5) as isize {
             continue;
         }
