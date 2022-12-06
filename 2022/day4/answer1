@@ -1,0 +1,1736 @@
+
+bot  25 96 3 96
+start2 (3) <= start1 (25)  True
+end2 (96) <= end1 (96)  True
+
+bot  35 48 18 49
+start2 (18) <= start1 (35)  True
+end2 (49) <= end1 (48)  False
+
+bot  5 6 5 98
+start2 (5) <= start1 (5)  True
+end2 (98) <= end1 (6)  False
+
+bot  77 78 63 79
+start2 (63) <= start1 (77)  True
+end2 (79) <= end1 (78)  False
+
+bot  56 56 28 56
+start2 (28) <= start1 (56)  True
+end2 (56) <= end1 (56)  True
+
+bot  84 85 22 85
+start2 (22) <= start1 (84)  True
+end2 (85) <= end1 (85)  True
+
+bot  35 62 34 74
+start2 (34) <= start1 (35)  True
+end2 (74) <= end1 (62)  False
+
+top  9 89 88 88
+
+top  7 55 54 54
+
+top  8 55 35 55
+
+bot  5 24 5 70
+start2 (5) <= start1 (5)  True
+end2 (70) <= end1 (24)  False
+
+bot  7 37 6 38
+start2 (6) <= start1 (7)  True
+end2 (38) <= end1 (37)  False
+
+bot  38 67 20 68
+start2 (20) <= start1 (38)  True
+end2 (68) <= end1 (67)  False
+
+top  1 94 2 2
+
+bot  85 93 8 93
+start2 (8) <= start1 (85)  True
+end2 (93) <= end1 (93)  True
+
+top  27 87 86 87
+
+bot  76 76 51 77
+start2 (51) <= start1 (76)  True
+end2 (77) <= end1 (76)  False
+
+bot  3 24 2 88
+start2 (2) <= start1 (3)  True
+end2 (88) <= end1 (24)  False
+
+top  20 96 48 95
+
+bot  9 9 8 65
+start2 (8) <= start1 (9)  True
+end2 (65) <= end1 (9)  False
+
+top  12 98 98 98
+
+bot  2 21 1 22
+start2 (1) <= start1 (2)  True
+end2 (22) <= end1 (21)  False
+
+bot  13 93 5 94
+start2 (5) <= start1 (13)  True
+end2 (94) <= end1 (93)  False
+
+top  18 38 37 37
+
+bot  35 36 35 59
+start2 (35) <= start1 (35)  True
+end2 (59) <= end1 (36)  False
+
+bot  3 4 3 99
+start2 (3) <= start1 (3)  True
+end2 (99) <= end1 (4)  False
+
+bot  41 74 41 75
+start2 (41) <= start1 (41)  True
+end2 (75) <= end1 (74)  False
+
+top  15 99 15 16
+
+top  15 81 16 81
+
+bot  88 93 87 93
+start2 (87) <= start1 (88)  True
+end2 (93) <= end1 (93)  True
+
+top  18 80 80 80
+
+top  6 32 7 32
+
+top  67 93 68 92
+
+top  48 95 49 94
+
+bot  43 91 26 94
+start2 (26) <= start1 (43)  True
+end2 (94) <= end1 (91)  False
+
+bot  2 79 1 98
+start2 (1) <= start1 (2)  True
+end2 (98) <= end1 (79)  False
+
+top  64 97 64 96
+
+top  8 10 9 9
+
+top  41 53 41 53
+
+bot  44 53 19 53
+start2 (19) <= start1 (44)  True
+end2 (53) <= end1 (53)  True
+
+bot  40 41 4 41
+start2 (4) <= start1 (40)  True
+end2 (41) <= end1 (41)  True
+
+top  88 90 89 89
+
+top  26 99 27 98
+
+bot  84 84 81 91
+start2 (81) <= start1 (84)  True
+end2 (91) <= end1 (84)  False
+
+bot  97 98 50 98
+start2 (50) <= start1 (97)  True
+end2 (98) <= end1 (98)  True
+
+top  24 59 34 59
+
+top  31 89 88 88
+
+bot  1 2 1 46
+start2 (1) <= start1 (1)  True
+end2 (46) <= end1 (2)  False
+
+bot  58 58 55 58
+start2 (55) <= start1 (58)  True
+end2 (58) <= end1 (58)  True
+
+top  7 88 87 88
+
+top  35 99 35 89
+
+top  33 73 34 34
+
+bot  13 35 12 61
+start2 (12) <= start1 (13)  True
+end2 (61) <= end1 (35)  False
+
+top  6 96 7 21
+
+bot  91 91 72 92
+start2 (72) <= start1 (91)  True
+end2 (92) <= end1 (91)  False
+
+bot  95 96 30 96
+start2 (30) <= start1 (95)  True
+end2 (96) <= end1 (96)  True
+
+bot  59 68 58 69
+start2 (58) <= start1 (59)  True
+end2 (69) <= end1 (68)  False
+
+bot  40 91 2 91
+start2 (2) <= start1 (40)  True
+end2 (91) <= end1 (91)  True
+
+bot  78 78 17 79
+start2 (17) <= start1 (78)  True
+end2 (79) <= end1 (78)  False
+
+bot  29 98 29 99
+start2 (29) <= start1 (29)  True
+end2 (99) <= end1 (98)  False
+
+top  61 78 77 77
+
+bot  74 75 6 75
+start2 (6) <= start1 (74)  True
+end2 (75) <= end1 (75)  True
+
+bot  51 63 2 63
+start2 (2) <= start1 (51)  True
+end2 (63) <= end1 (63)  True
+
+top  4 70 4 59
+
+bot  51 74 50 75
+start2 (50) <= start1 (51)  True
+end2 (75) <= end1 (74)  False
+
+bot  61 91 61 92
+start2 (61) <= start1 (61)  True
+end2 (92) <= end1 (91)  False
+
+bot  57 58 8 58
+start2 (8) <= start1 (57)  True
+end2 (58) <= end1 (58)  True
+
+bot  8 43 4 90
+start2 (4) <= start1 (8)  True
+end2 (90) <= end1 (43)  False
+
+top  46 78 50 61
+
+bot  5 46 5 62
+start2 (5) <= start1 (5)  True
+end2 (62) <= end1 (46)  False
+
+top  25 99 26 82
+
+top  12 40 20 36
+
+bot  20 44 20 47
+start2 (20) <= start1 (20)  True
+end2 (47) <= end1 (44)  False
+
+top  9 97 97 97
+
+bot  79 97 29 97
+start2 (29) <= start1 (79)  True
+end2 (97) <= end1 (97)  True
+
+top  5 85 6 84
+
+top  36 62 37 61
+
+top  74 81 75 80
+
+bot  36 71 35 72
+start2 (35) <= start1 (36)  True
+end2 (72) <= end1 (71)  False
+
+bot  84 97 26 99
+start2 (26) <= start1 (84)  True
+end2 (99) <= end1 (97)  False
+
+bot  65 66 49 66
+start2 (49) <= start1 (65)  True
+end2 (66) <= end1 (66)  True
+
+bot  33 33 11 33
+start2 (11) <= start1 (33)  True
+end2 (33) <= end1 (33)  True
+
+top  3 92 17 91
+
+bot  2 71 1 72
+start2 (1) <= start1 (2)  True
+end2 (72) <= end1 (71)  False
+
+bot  53 90 13 91
+start2 (13) <= start1 (53)  True
+end2 (91) <= end1 (90)  False
+
+bot  2 81 1 81
+start2 (1) <= start1 (2)  True
+end2 (81) <= end1 (81)  True
+
+top  22 97 23 93
+
+bot  63 63 62 76
+start2 (62) <= start1 (63)  True
+end2 (76) <= end1 (63)  False
+
+bot  76 94 76 95
+start2 (76) <= start1 (76)  True
+end2 (95) <= end1 (94)  False
+
+top  1 68 2 67
+
+top  6 98 6 98
+
+top  5 93 6 92
+
+top  29 61 29 61
+
+bot  11 11 10 73
+start2 (10) <= start1 (11)  True
+end2 (73) <= end1 (11)  False
+
+top  10 85 11 11
+
+bot  4 98 3 99
+start2 (3) <= start1 (4)  True
+end2 (99) <= end1 (98)  False
+
+bot  22 41 22 76
+start2 (22) <= start1 (22)  True
+end2 (76) <= end1 (41)  False
+
+top  39 92 56 91
+
+bot  6 91 3 95
+start2 (3) <= start1 (6)  True
+end2 (95) <= end1 (91)  False
+
+bot  32 86 13 86
+start2 (13) <= start1 (32)  True
+end2 (86) <= end1 (86)  True
+
+bot  97 97 97 98
+start2 (97) <= start1 (97)  True
+end2 (98) <= end1 (97)  False
+
+bot  66 72 46 73
+start2 (46) <= start1 (66)  True
+end2 (73) <= end1 (72)  False
+
+top  11 85 11 72
+
+bot  39 42 9 53
+start2 (9) <= start1 (39)  True
+end2 (53) <= end1 (42)  False
+
+bot  97 98 21 98
+start2 (21) <= start1 (97)  True
+end2 (98) <= end1 (98)  True
+
+top  9 96 95 95
+
+bot  31 32 26 32
+start2 (26) <= start1 (31)  True
+end2 (32) <= end1 (32)  True
+
+top  2 13 3 3
+
+top  51 73 72 72
+
+top  59 79 78 78
+
+top  16 97 16 96
+
+top  50 97 50 68
+
+top  2 87 2 87
+
+top  5 90 9 30
+
+top  51 55 53 54
+
+top  87 87 87 87
+
+bot  51 92 4 92
+start2 (4) <= start1 (51)  True
+end2 (92) <= end1 (92)  True
+
+top  13 78 17 72
+
+top  69 98 85 98
+
+top  2 49 4 43
+
+top  24 81 25 81
+
+top  27 85 39 84
+
+top  33 47 34 39
+
+top  18 43 19 42
+
+bot  26 29 26 31
+start2 (26) <= start1 (26)  True
+end2 (31) <= end1 (29)  False
+
+top  9 92 9 91
+
+bot  8 55 8 56
+start2 (8) <= start1 (8)  True
+end2 (56) <= end1 (55)  False
+
+bot  25 67 25 72
+start2 (25) <= start1 (25)  True
+end2 (72) <= end1 (67)  False
+
+bot  12 40 11 93
+start2 (11) <= start1 (12)  True
+end2 (93) <= end1 (40)  False
+
+bot  58 63 57 64
+start2 (57) <= start1 (58)  True
+end2 (64) <= end1 (63)  False
+
+top  7 91 7 8
+
+top  4 68 32 68
+
+bot  2 98 1 99
+start2 (1) <= start1 (2)  True
+end2 (99) <= end1 (98)  False
+
+top  50 83 82 82
+
+bot  14 14 1 14
+start2 (1) <= start1 (14)  True
+end2 (14) <= end1 (14)  True
+
+top  3 63 42 62
+
+bot  27 76 26 77
+start2 (26) <= start1 (27)  True
+end2 (77) <= end1 (76)  False
+
+bot  16 71 14 72
+start2 (14) <= start1 (16)  True
+end2 (72) <= end1 (71)  False
+
+bot  13 92 13 96
+start2 (13) <= start1 (13)  True
+end2 (96) <= end1 (92)  False
+
+bot  27 32 27 33
+start2 (27) <= start1 (27)  True
+end2 (33) <= end1 (32)  False
+
+top  38 47 39 43
+
+bot  45 46 11 46
+start2 (11) <= start1 (45)  True
+end2 (46) <= end1 (46)  True
+
+top  80 90 82 89
+
+bot  47 47 46 74
+start2 (46) <= start1 (47)  True
+end2 (74) <= end1 (47)  False
+
+top  50 63 60 62
+
+bot  9 88 8 89
+start2 (8) <= start1 (9)  True
+end2 (89) <= end1 (88)  False
+
+top  15 91 15 86
+
+bot  12 78 11 79
+start2 (11) <= start1 (12)  True
+end2 (79) <= end1 (78)  False
+
+bot  83 84 13 84
+start2 (13) <= start1 (83)  True
+end2 (84) <= end1 (84)  True
+
+top  18 79 18 29
+
+top  42 77 42 76
+
+top  2 94 93 94
+
+top  4 99 98 98
+
+top  57 96 60 95
+
+top  5 29 19 29
+
+bot  10 70 6 96
+start2 (6) <= start1 (10)  True
+end2 (96) <= end1 (70)  False
+
+top  1 99 2 98
+
+top  27 84 28 28
+
+bot  53 53 52 56
+start2 (52) <= start1 (53)  True
+end2 (56) <= end1 (53)  False
+
+bot  72 88 54 99
+start2 (54) <= start1 (72)  True
+end2 (99) <= end1 (88)  False
+
+bot  77 84 74 95
+start2 (74) <= start1 (77)  True
+end2 (95) <= end1 (84)  False
+
+top  2 54 3 53
+
+bot  40 95 3 95
+start2 (3) <= start1 (40)  True
+end2 (95) <= end1 (95)  True
+
+top  8 97 65 97
+
+top  14 80 14 15
+
+bot  34 62 29 62
+start2 (29) <= start1 (34)  True
+end2 (62) <= end1 (62)  True
+
+bot  32 91 32 92
+start2 (32) <= start1 (32)  True
+end2 (92) <= end1 (91)  False
+
+bot  32 37 32 38
+start2 (32) <= start1 (32)  True
+end2 (38) <= end1 (37)  False
+
+top  9 37 33 35
+
+top  22 80 22 80
+
+bot  11 44 10 49
+start2 (10) <= start1 (11)  True
+end2 (49) <= end1 (44)  False
+
+top  1 91 11 91
+
+bot  23 56 4 60
+start2 (4) <= start1 (23)  True
+end2 (60) <= end1 (56)  False
+
+bot  55 56 55 68
+start2 (55) <= start1 (55)  True
+end2 (68) <= end1 (56)  False
+
+bot  8 68 5 69
+start2 (5) <= start1 (8)  True
+end2 (69) <= end1 (68)  False
+
+top  52 62 52 53
+
+top  4 9 8 8
+
+top  18 75 19 74
+
+top  65 73 68 72
+
+top  29 90 30 89
+
+top  69 89 70 70
+
+top  9 70 68 70
+
+top  95 95 95 95
+
+bot  11 95 10 96
+start2 (10) <= start1 (11)  True
+end2 (96) <= end1 (95)  False
+
+top  13 97 13 97
+
+top  22 67 59 66
+
+top  4 84 4 83
+
+top  88 91 89 90
+
+top  37 42 37 38
+
+bot  25 43 9 43
+start2 (9) <= start1 (25)  True
+end2 (43) <= end1 (43)  True
+
+bot  48 78 42 79
+start2 (42) <= start1 (48)  True
+end2 (79) <= end1 (78)  False
+
+top  7 32 8 8
+
+top  5 98 6 97
+
+bot  28 79 27 79
+start2 (27) <= start1 (28)  True
+end2 (79) <= end1 (79)  True
+
+top  28 57 56 57
+
+top  72 90 73 89
+
+top  44 96 45 45
+
+top  35 90 89 90
+
+bot  95 95 10 96
+start2 (10) <= start1 (95)  True
+end2 (96) <= end1 (95)  False
+
+top  16 62 23 62
+
+bot  1 94 1 95
+start2 (1) <= start1 (1)  True
+end2 (95) <= end1 (94)  False
+
+top  9 94 20 77
+
+bot  18 19 18 95
+start2 (18) <= start1 (18)  True
+end2 (95) <= end1 (19)  False
+
+bot  12 12 11 13
+start2 (11) <= start1 (12)  True
+end2 (13) <= end1 (12)  False
+
+top  8 67 9 66
+
+bot  45 46 14 46
+start2 (14) <= start1 (45)  True
+end2 (46) <= end1 (46)  True
+
+bot  53 60 53 61
+start2 (53) <= start1 (53)  True
+end2 (61) <= end1 (60)  False
+
+top  32 78 77 78
+
+top  64 78 78 78
+
+top  27 86 86 86
+
+top  5 95 74 93
+
+top  4 68 56 68
+
+top  1 67 3 14
+
+top  81 82 81 81
+
+top  24 82 24 81
+
+bot  30 36 29 37
+start2 (29) <= start1 (30)  True
+end2 (37) <= end1 (36)  False
+
+bot  67 75 11 84
+start2 (11) <= start1 (67)  True
+end2 (84) <= end1 (75)  False
+
+top  12 99 18 97
+
+bot  21 21 20 40
+start2 (20) <= start1 (21)  True
+end2 (40) <= end1 (21)  False
+
+bot  2 92 1 93
+start2 (1) <= start1 (2)  True
+end2 (93) <= end1 (92)  False
+
+bot  51 51 50 99
+start2 (50) <= start1 (51)  True
+end2 (99) <= end1 (51)  False
+
+bot  96 98 95 99
+start2 (95) <= start1 (96)  True
+end2 (99) <= end1 (98)  False
+
+top  25 93 50 92
+
+top  15 98 15 33
+
+bot  87 91 86 93
+start2 (86) <= start1 (87)  True
+end2 (93) <= end1 (91)  False
+
+bot  25 60 24 61
+start2 (24) <= start1 (25)  True
+end2 (61) <= end1 (60)  False
+
+bot  23 79 22 80
+start2 (22) <= start1 (23)  True
+end2 (80) <= end1 (79)  False
+
+top  51 98 52 80
+
+top  35 89 36 88
+
+top  54 97 55 83
+
+top  70 87 71 86
+
+bot  81 82 13 82
+start2 (13) <= start1 (81)  True
+end2 (82) <= end1 (82)  True
+
+top  11 67 11 57
+
+bot  84 84 61 85
+start2 (61) <= start1 (84)  True
+end2 (85) <= end1 (84)  False
+
+bot  9 73 9 74
+start2 (9) <= start1 (9)  True
+end2 (74) <= end1 (73)  False
+
+bot  8 48 7 49
+start2 (7) <= start1 (8)  True
+end2 (49) <= end1 (48)  False
+
+top  1 90 89 90
+
+bot  5 75 5 76
+start2 (5) <= start1 (5)  True
+end2 (76) <= end1 (75)  False
+
+bot  1 1 1 93
+start2 (1) <= start1 (1)  True
+end2 (93) <= end1 (1)  False
+
+bot  8 64 7 64
+start2 (7) <= start1 (8)  True
+end2 (64) <= end1 (64)  True
+
+bot  21 22 20 23
+start2 (20) <= start1 (21)  True
+end2 (23) <= end1 (22)  False
+
+top  19 96 20 95
+
+top  57 66 57 58
+
+bot  83 85 60 86
+start2 (60) <= start1 (83)  True
+end2 (86) <= end1 (85)  False
+
+bot  78 78 64 79
+start2 (64) <= start1 (78)  True
+end2 (79) <= end1 (78)  False
+
+top  21 72 41 52
+
+bot  62 73 2 87
+start2 (2) <= start1 (62)  True
+end2 (87) <= end1 (73)  False
+
+bot  94 94 18 95
+start2 (18) <= start1 (94)  True
+end2 (95) <= end1 (94)  False
+
+bot  5 6 5 89
+start2 (5) <= start1 (5)  True
+end2 (89) <= end1 (6)  False
+
+bot  26 81 25 82
+start2 (25) <= start1 (26)  True
+end2 (82) <= end1 (81)  False
+
+top  41 53 42 52
+
+bot  20 79 8 80
+start2 (8) <= start1 (20)  True
+end2 (80) <= end1 (79)  False
+
+bot  21 64 21 96
+start2 (21) <= start1 (21)  True
+end2 (96) <= end1 (64)  False
+
+bot  32 33 32 72
+start2 (32) <= start1 (32)  True
+end2 (72) <= end1 (33)  False
+
+top  15 80 24 80
+
+top  33 46 34 34
+
+top  38 43 39 42
+
+top  15 99 90 99
+
+bot  18 67 18 68
+start2 (18) <= start1 (18)  True
+end2 (68) <= end1 (67)  False
+
+bot  28 28 27 79
+start2 (27) <= start1 (28)  True
+end2 (79) <= end1 (28)  False
+
+top  4 28 27 28
+
+bot  32 93 2 93
+start2 (2) <= start1 (32)  True
+end2 (93) <= end1 (93)  True
+
+bot  3 3 3 80
+start2 (3) <= start1 (3)  True
+end2 (80) <= end1 (3)  False
+
+bot  1 2 1 95
+start2 (1) <= start1 (1)  True
+end2 (95) <= end1 (2)  False
+
+bot  77 77 45 78
+start2 (45) <= start1 (77)  True
+end2 (78) <= end1 (77)  False
+
+top  62 98 88 98
+
+bot  30 93 2 93
+start2 (2) <= start1 (30)  True
+end2 (93) <= end1 (93)  True
+
+top  4 99 4 96
+
+top  17 95 86 95
+
+top  20 92 20 90
+
+bot  6 6 5 89
+start2 (5) <= start1 (6)  True
+end2 (89) <= end1 (6)  False
+
+top  68 98 69 78
+
+top  19 71 19 71
+
+top  6 49 14 33
+
+bot  8 49 8 50
+start2 (8) <= start1 (8)  True
+end2 (50) <= end1 (49)  False
+
+top  13 90 14 89
+
+top  45 54 45 46
+
+bot  69 78 69 94
+start2 (69) <= start1 (69)  True
+end2 (94) <= end1 (78)  False
+
+top  1 96 2 95
+
+top  27 95 27 54
+
+bot  7 47 5 73
+start2 (5) <= start1 (7)  True
+end2 (73) <= end1 (47)  False
+
+bot  96 96 68 96
+start2 (68) <= start1 (96)  True
+end2 (96) <= end1 (96)  True
+
+bot  23 41 16 42
+start2 (16) <= start1 (23)  True
+end2 (42) <= end1 (41)  False
+
+bot  66 70 59 71
+start2 (59) <= start1 (66)  True
+end2 (71) <= end1 (70)  False
+
+top  41 58 53 57
+
+bot  17 96 16 97
+start2 (16) <= start1 (17)  True
+end2 (97) <= end1 (96)  False
+
+bot  14 84 13 85
+start2 (13) <= start1 (14)  True
+end2 (85) <= end1 (84)  False
+
+top  68 96 68 96
+
+top  20 75 20 75
+
+bot  86 86 6 87
+start2 (6) <= start1 (86)  True
+end2 (87) <= end1 (86)  False
+
+top  11 12 11 12
+
+top  2 89 88 89
+
+top  65 82 78 81
+
+bot  75 75 75 76
+start2 (75) <= start1 (75)  True
+end2 (76) <= end1 (75)  False
+
+top  10 42 10 42
+
+top  59 70 60 60
+
+bot  2 2 1 85
+start2 (1) <= start1 (2)  True
+end2 (85) <= end1 (2)  False
+
+top  8 99 99 99
+
+top  60 84 60 81
+
+bot  66 70 66 72
+start2 (66) <= start1 (66)  True
+end2 (72) <= end1 (70)  False
+
+bot  22 52 21 96
+start2 (21) <= start1 (22)  True
+end2 (96) <= end1 (52)  False
+
+bot  58 58 57 59
+start2 (57) <= start1 (58)  True
+end2 (59) <= end1 (58)  False
+
+bot  17 57 17 92
+start2 (17) <= start1 (17)  True
+end2 (92) <= end1 (57)  False
+
+bot  69 96 68 98
+start2 (68) <= start1 (69)  True
+end2 (98) <= end1 (96)  False
+
+bot  98 99 91 99
+start2 (91) <= start1 (98)  True
+end2 (99) <= end1 (99)  True
+
+bot  16 90 16 91
+start2 (16) <= start1 (16)  True
+end2 (91) <= end1 (90)  False
+
+bot  71 83 71 89
+start2 (71) <= start1 (71)  True
+end2 (89) <= end1 (83)  False
+
+bot  59 60 52 60
+start2 (52) <= start1 (59)  True
+end2 (60) <= end1 (60)  True
+
+top  40 97 70 79
+
+bot  54 55 54 56
+start2 (54) <= start1 (54)  True
+end2 (56) <= end1 (55)  False
+
+top  39 63 63 63
+
+bot  25 38 23 46
+start2 (23) <= start1 (25)  True
+end2 (46) <= end1 (38)  False
+
+bot  34 64 33 65
+start2 (33) <= start1 (34)  True
+end2 (65) <= end1 (64)  False
+
+top  73 81 73 80
+
+bot  53 54 19 54
+start2 (19) <= start1 (53)  True
+end2 (54) <= end1 (54)  True
+
+top  8 94 93 93
+
+top  56 66 62 65
+
+bot  45 93 45 96
+start2 (45) <= start1 (45)  True
+end2 (96) <= end1 (93)  False
+
+top  41 71 41 70
+
+top  12 93 67 86
+
+top  63 93 64 92
+
+top  17 91 17 87
+
+top  17 93 17 92
+
+bot  86 88 45 89
+start2 (45) <= start1 (86)  True
+end2 (89) <= end1 (88)  False
+
+bot  12 26 12 55
+start2 (12) <= start1 (12)  True
+end2 (55) <= end1 (26)  False
+
+bot  72 73 10 73
+start2 (10) <= start1 (72)  True
+end2 (73) <= end1 (73)  True
+
+bot  42 96 42 97
+start2 (42) <= start1 (42)  True
+end2 (97) <= end1 (96)  False
+
+top  13 85 14 84
+
+bot  5 45 4 97
+start2 (4) <= start1 (5)  True
+end2 (97) <= end1 (45)  False
+
+bot  29 29 28 77
+start2 (28) <= start1 (29)  True
+end2 (77) <= end1 (29)  False
+
+bot  82 83 51 83
+start2 (51) <= start1 (82)  True
+end2 (83) <= end1 (83)  True
+
+bot  91 93 13 93
+start2 (13) <= start1 (91)  True
+end2 (93) <= end1 (93)  True
+
+bot  68 68 54 69
+start2 (54) <= start1 (68)  True
+end2 (69) <= end1 (68)  False
+
+bot  82 91 81 92
+start2 (81) <= start1 (82)  True
+end2 (92) <= end1 (91)  False
+
+bot  12 36 11 69
+start2 (11) <= start1 (12)  True
+end2 (69) <= end1 (36)  False
+
+bot  6 76 5 77
+start2 (5) <= start1 (6)  True
+end2 (77) <= end1 (76)  False
+
+bot  50 94 2 95
+start2 (2) <= start1 (50)  True
+end2 (95) <= end1 (94)  False
+
+bot  88 88 74 89
+start2 (74) <= start1 (88)  True
+end2 (89) <= end1 (88)  False
+
+bot  12 81 11 92
+start2 (11) <= start1 (12)  True
+end2 (92) <= end1 (81)  False
+
+bot  18 18 17 66
+start2 (17) <= start1 (18)  True
+end2 (66) <= end1 (18)  False
+
+bot  91 94 58 94
+start2 (58) <= start1 (91)  True
+end2 (94) <= end1 (94)  True
+
+bot  36 41 35 42
+start2 (35) <= start1 (36)  True
+end2 (42) <= end1 (41)  False
+
+bot  13 13 12 54
+start2 (12) <= start1 (13)  True
+end2 (54) <= end1 (13)  False
+
+bot  26 27 26 85
+start2 (26) <= start1 (26)  True
+end2 (85) <= end1 (27)  False
+
+bot  19 63 10 78
+start2 (10) <= start1 (19)  True
+end2 (78) <= end1 (63)  False
+
+top  8 65 9 64
+
+bot  50 61 50 65
+start2 (50) <= start1 (50)  True
+end2 (65) <= end1 (61)  False
+
+bot  89 90 10 90
+start2 (10) <= start1 (89)  True
+end2 (90) <= end1 (90)  True
+
+top  4 61 8 35
+
+bot  84 88 57 99
+start2 (57) <= start1 (84)  True
+end2 (99) <= end1 (88)  False
+
+top  16 58 17 57
+
+top  24 36 35 36
+
+bot  72 92 54 93
+start2 (54) <= start1 (72)  True
+end2 (93) <= end1 (92)  False
+
+top  18 86 19 85
+
+top  10 87 87 87
+
+bot  87 98 69 98
+start2 (69) <= start1 (87)  True
+end2 (98) <= end1 (98)  True
+
+top  30 70 31 69
+
+top  2 99 2 78
+
+bot  89 93 88 94
+start2 (88) <= start1 (89)  True
+end2 (94) <= end1 (93)  False
+
+top  17 58 17 18
+
+bot  33 60 32 61
+start2 (32) <= start1 (33)  True
+end2 (61) <= end1 (60)  False
+
+top  6 98 8 98
+
+bot  13 13 12 86
+start2 (12) <= start1 (13)  True
+end2 (86) <= end1 (13)  False
+
+bot  94 95 61 95
+start2 (61) <= start1 (94)  True
+end2 (95) <= end1 (95)  True
+
+top  21 62 21 25
+
+bot  26 97 25 98
+start2 (25) <= start1 (26)  True
+end2 (98) <= end1 (97)  False
+
+top  7 92 91 92
+
+bot  20 31 20 82
+start2 (20) <= start1 (20)  True
+end2 (82) <= end1 (31)  False
+
+top  29 82 81 82
+
+top  34 80 59 80
+
+bot  85 86 85 87
+start2 (85) <= start1 (85)  True
+end2 (87) <= end1 (86)  False
+
+bot  56 89 55 90
+start2 (55) <= start1 (56)  True
+end2 (90) <= end1 (89)  False
+
+top  37 91 38 90
+
+bot  49 49 48 83
+start2 (48) <= start1 (49)  True
+end2 (83) <= end1 (49)  False
+
+top  26 92 34 65
+
+bot  18 88 17 89
+start2 (17) <= start1 (18)  True
+end2 (89) <= end1 (88)  False
+
+bot  3 3 2 78
+start2 (2) <= start1 (3)  True
+end2 (78) <= end1 (3)  False
+
+top  29 80 30 79
+
+bot  20 95 20 98
+start2 (20) <= start1 (20)  True
+end2 (98) <= end1 (95)  False
+
+top  45 56 46 55
+
+bot  25 45 25 46
+start2 (25) <= start1 (25)  True
+end2 (46) <= end1 (45)  False
+
+bot  74 91 73 92
+start2 (73) <= start1 (74)  True
+end2 (92) <= end1 (91)  False
+
+bot  31 76 30 77
+start2 (30) <= start1 (31)  True
+end2 (77) <= end1 (76)  False
+
+top  81 91 87 87
+
+top  59 89 59 89
+
+top  38 98 38 96
+
+bot  94 94 7 94
+start2 (7) <= start1 (94)  True
+end2 (94) <= end1 (94)  True
+
+bot  46 46 41 47
+start2 (41) <= start1 (46)  True
+end2 (47) <= end1 (46)  False
+
+bot  98 98 9 99
+start2 (9) <= start1 (98)  True
+end2 (99) <= end1 (98)  False
+
+bot  84 85 51 85
+start2 (51) <= start1 (84)  True
+end2 (85) <= end1 (85)  True
+
+top  15 63 16 62
+
+top  62 75 63 74
+
+top  30 34 33 33
+
+bot  8 8 7 96
+start2 (7) <= start1 (8)  True
+end2 (96) <= end1 (8)  False
+
+top  63 94 93 94
+
+top  2 69 2 69
+
+bot  44 44 38 45
+start2 (38) <= start1 (44)  True
+end2 (45) <= end1 (44)  False
+
+bot  74 75 39 75
+start2 (39) <= start1 (74)  True
+end2 (75) <= end1 (75)  True
+
+bot  7 57 7 87
+start2 (7) <= start1 (7)  True
+end2 (87) <= end1 (57)  False
+
+bot  41 59 40 88
+start2 (40) <= start1 (41)  True
+end2 (88) <= end1 (59)  False
+
+top  12 36 12 35
+
+bot  1 2 1 92
+start2 (1) <= start1 (1)  True
+end2 (92) <= end1 (2)  False
+
+bot  4 64 3 65
+start2 (3) <= start1 (4)  True
+end2 (65) <= end1 (64)  False
+
+top  58 68 59 63
+
+top  14 61 14 61
+
+top  14 94 15 15
+
+bot  52 88 8 91
+start2 (8) <= start1 (52)  True
+end2 (91) <= end1 (88)  False
+
+bot  15 50 14 51
+start2 (14) <= start1 (15)  True
+end2 (51) <= end1 (50)  False
+
+bot  26 55 3 55
+start2 (3) <= start1 (26)  True
+end2 (55) <= end1 (55)  True
+
+bot  36 36 24 37
+start2 (24) <= start1 (36)  True
+end2 (37) <= end1 (36)  False
+
+bot  22 98 21 98
+start2 (21) <= start1 (22)  True
+end2 (98) <= end1 (98)  True
+
+bot  22 22 21 23
+start2 (21) <= start1 (22)  True
+end2 (23) <= end1 (22)  False
+
+bot  30 32 27 33
+start2 (27) <= start1 (30)  True
+end2 (33) <= end1 (32)  False
+
+top  3 74 31 73
+
+bot  37 40 37 49
+start2 (37) <= start1 (37)  True
+end2 (49) <= end1 (40)  False
+
+bot  58 58 57 74
+start2 (57) <= start1 (58)  True
+end2 (74) <= end1 (58)  False
+
+bot  40 80 19 80
+start2 (19) <= start1 (40)  True
+end2 (80) <= end1 (80)  True
+
+top  6 42 6 42
+
+top  1 82 4 82
+
+top  66 99 66 99
+
+top  19 93 20 82
+
+bot  58 59 45 59
+start2 (45) <= start1 (58)  True
+end2 (59) <= end1 (59)  True
+
+top  42 58 43 57
+
+top  22 46 46 46
+
+bot  96 97 1 97
+start2 (1) <= start1 (96)  True
+end2 (97) <= end1 (97)  True
+
+top  17 99 17 98
+
+bot  7 55 6 72
+start2 (6) <= start1 (7)  True
+end2 (72) <= end1 (55)  False
+
+top  23 98 51 95
+
+bot  66 84 49 84
+start2 (49) <= start1 (66)  True
+end2 (84) <= end1 (84)  True
+
+bot  19 82 18 83
+start2 (18) <= start1 (19)  True
+end2 (83) <= end1 (82)  False
+
+bot  3 96 1 96
+start2 (1) <= start1 (3)  True
+end2 (96) <= end1 (96)  True
+
+top  4 89 25 75
+
+bot  36 37 36 96
+start2 (36) <= start1 (36)  True
+end2 (96) <= end1 (37)  False
+
+bot  38 47 31 48
+start2 (31) <= start1 (38)  True
+end2 (48) <= end1 (47)  False
+
+top  2 16 15 16
+
+top  66 78 66 77
+
+bot  20 94 19 95
+start2 (19) <= start1 (20)  True
+end2 (95) <= end1 (94)  False
+
+bot  93 94 76 94
+start2 (76) <= start1 (93)  True
+end2 (94) <= end1 (94)  True
+
+top  7 98 8 97
+
+bot  61 82 2 83
+start2 (2) <= start1 (61)  True
+end2 (83) <= end1 (82)  False
+
+bot  25 38 10 39
+start2 (10) <= start1 (25)  True
+end2 (39) <= end1 (38)  False
+
+top  4 64 5 63
+
+top  8 90 9 43
+
+top  43 69 44 68
+
+top  19 82 19 82
+
+bot  3 4 3 82
+start2 (3) <= start1 (3)  True
+end2 (82) <= end1 (4)  False
+
+bot  61 74 61 83
+start2 (61) <= start1 (61)  True
+end2 (83) <= end1 (74)  False
+
+top  10 99 11 98
+
+top  26 81 27 48
+
+top  23 83 23 82
+
+top  54 83 82 82
+
+bot  85 85 6 86
+start2 (6) <= start1 (85)  True
+end2 (86) <= end1 (85)  False
+
+top  49 89 49 88
+
+bot  31 40 31 72
+start2 (31) <= start1 (31)  True
+end2 (72) <= end1 (40)  False
+
+bot  25 25 24 53
+start2 (24) <= start1 (25)  True
+end2 (53) <= end1 (25)  False
+
+top  13 97 14 96
+
+bot  91 92 15 92
+start2 (15) <= start1 (91)  True
+end2 (92) <= end1 (92)  True
+
+bot  64 65 64 71
+start2 (64) <= start1 (64)  True
+end2 (71) <= end1 (65)  False
+
+top  5 94 5 80
+
+top  9 95 9 94
+
+bot  29 83 18 93
+start2 (18) <= start1 (29)  True
+end2 (93) <= end1 (83)  False
+
+bot  31 32 31 92
+start2 (31) <= start1 (31)  True
+end2 (92) <= end1 (32)  False
+
+top  20 40 39 39
+
+top  26 71 70 70
+
+bot  3 13 2 73
+start2 (2) <= start1 (3)  True
+end2 (73) <= end1 (13)  False
+
+bot  42 88 19 91
+start2 (19) <= start1 (42)  True
+end2 (91) <= end1 (88)  False
+
+bot  58 59 27 59
+start2 (27) <= start1 (58)  True
+end2 (59) <= end1 (59)  True
+
+top  76 88 76 87
+
+top  11 28 12 27
+
+top  11 26 14 26
+
+bot  9 94 8 99
+start2 (8) <= start1 (9)  True
+end2 (99) <= end1 (94)  False
+
+bot  12 85 12 86
+start2 (12) <= start1 (12)  True
+end2 (86) <= end1 (85)  False
+
+bot  52 77 52 78
+start2 (52) <= start1 (52)  True
+end2 (78) <= end1 (77)  False
+
+top  9 62 49 62
+
+top  28 92 29 92
+
+bot  79 80 75 80
+start2 (75) <= start1 (79)  True
+end2 (80) <= end1 (80)  True
+
+bot  3 98 2 99
+start2 (2) <= start1 (3)  True
+end2 (99) <= end1 (98)  False
+
+top  9 69 68 68
+
+bot  6 54 5 58
+start2 (5) <= start1 (6)  True
+end2 (58) <= end1 (54)  False
+
+top  74 95 78 94
+
+top  25 90 26 89
+
+top  37 92 74 91
+
+bot  46 48 15 83
+start2 (15) <= start1 (46)  True
+end2 (83) <= end1 (48)  False
+
+top  14 89 14 88
+
+top  8 57 56 57
+
+bot  18 34 17 34
+start2 (17) <= start1 (18)  True
+end2 (34) <= end1 (34)  True
+
+top  37 46 45 46
+
+top  3 51 10 51
+
+bot  54 60 49 60
+start2 (49) <= start1 (54)  True
+end2 (60) <= end1 (60)  True
+
+bot  78 78 46 79
+start2 (46) <= start1 (78)  True
+end2 (79) <= end1 (78)  False
+
+top  26 53 52 53
+
+bot  17 64 2 88
+start2 (2) <= start1 (17)  True
+end2 (88) <= end1 (64)  False
+
+bot  68 79 67 80
+start2 (67) <= start1 (68)  True
+end2 (80) <= end1 (79)  False
+
+bot  40 77 40 78
+start2 (40) <= start1 (40)  True
+end2 (78) <= end1 (77)  False
+
+top  28 99 99 99
+
+top  14 23 22 23
+
+top  4 80 46 70
+
+top  3 92 92 92
+
+top  30 93 30 30
+
+bot  19 27 19 40
+start2 (19) <= start1 (19)  True
+end2 (40) <= end1 (27)  False
+
+bot  29 80 28 80
+start2 (28) <= start1 (29)  True
+end2 (80) <= end1 (80)  True
+
+bot  34 55 33 56
+start2 (33) <= start1 (34)  True
+end2 (56) <= end1 (55)  False
+
+top  4 90 4 5
+
+top  49 84 49 83
+
+bot  60 61 1 61
+start2 (1) <= start1 (60)  True
+end2 (61) <= end1 (61)  True
+
+top  23 80 24 42
+
+top  14 96 14 67
+
+bot  1 2 1 32
+start2 (1) <= start1 (1)  True
+end2 (32) <= end1 (2)  False
+
+bot  23 77 22 78
+start2 (22) <= start1 (23)  True
+end2 (78) <= end1 (77)  False
+
+top  41 91 70 87
+
+bot  72 85 24 86
+start2 (24) <= start1 (72)  True
+end2 (86) <= end1 (85)  False
+
+top  17 72 44 72
+
+top  20 97 20 97
+
+bot  73 74 70 74
+start2 (70) <= start1 (73)  True
+end2 (74) <= end1 (74)  True
+
+bot  3 48 1 48
+start2 (1) <= start1 (3)  True
+end2 (48) <= end1 (48)  True
+
+top  48 98 49 75
+
+bot  29 42 29 48
+start2 (29) <= start1 (29)  True
+end2 (48) <= end1 (42)  False
+
+bot  14 87 14 88
+start2 (14) <= start1 (14)  True
+end2 (88) <= end1 (87)  False
+
+top  14 88 14 87
+
+bot  80 80 48 80
+start2 (48) <= start1 (80)  True
+end2 (80) <= end1 (80)  True
+
+bot  98 99 4 99
+start2 (4) <= start1 (98)  True
+end2 (99) <= end1 (99)  True
+
+top  24 98 25 25
+
+bot  30 58 18 58
+start2 (18) <= start1 (30)  True
+end2 (58) <= end1 (58)  True
+
+top  11 77 76 77
+
+top  9 89 9 88
+
+bot  20 89 19 90
+start2 (19) <= start1 (20)  True
+end2 (90) <= end1 (89)  False
+
+bot  23 69 22 69
+start2 (22) <= start1 (23)  True
+end2 (69) <= end1 (69)  True
+
+bot  3 23 2 93
+start2 (2) <= start1 (3)  True
+end2 (93) <= end1 (23)  False
+
+bot  4 30 1 61
+start2 (1) <= start1 (4)  True
+end2 (61) <= end1 (30)  False
+
+bot  49 77 47 77
+start2 (47) <= start1 (49)  True
+end2 (77) <= end1 (77)  True
+
+bot  30 52 5 90
+start2 (5) <= start1 (30)  True
+end2 (90) <= end1 (52)  False
+
+bot  16 79 8 89
+start2 (8) <= start1 (16)  True
+end2 (89) <= end1 (79)  False
+
+bot  2 2 1 93
+start2 (1) <= start1 (2)  True
+end2 (93) <= end1 (2)  False
+
+bot  29 72 29 79
+start2 (29) <= start1 (29)  True
+end2 (79) <= end1 (72)  False
+
+top  10 92 11 11
+
+top  14 21 14 21
+
+bot  3 97 2 99
+start2 (2) <= start1 (3)  True
+end2 (99) <= end1 (97)  False
+
+top  1 92 26 79
+
+top  31 86 32 85
+
+bot  64 72 50 72
+start2 (50) <= start1 (64)  True
+end2 (72) <= end1 (72)  True
+
+bot  1 97 1 98
+start2 (1) <= start1 (1)  True
+end2 (98) <= end1 (97)  False
+
+top  17 90 24 88
+
+bot  46 46 6 46
+start2 (6) <= start1 (46)  True
+end2 (46) <= end1 (46)  True
+
+top  24 96 25 25
+
+top  54 98 77 97
+
+bot  48 91 47 92
+start2 (47) <= start1 (48)  True
+end2 (92) <= end1 (91)  False
+
+bot  83 84 5 84
+start2 (5) <= start1 (83)  True
+end2 (84) <= end1 (84)  True
+
+bot  52 61 52 73
+start2 (52) <= start1 (52)  True
+end2 (73) <= end1 (61)  False
+
+bot  21 38 21 93
+start2 (21) <= start1 (21)  True
+end2 (93) <= end1 (38)  False
+
+top  9 45 34 37
+
+top  51 83 67 74
+
+bot  26 26 26 88
+start2 (26) <= start1 (26)  True
+end2 (88) <= end1 (26)  False
+
+bot  41 67 40 70
+start2 (40) <= start1 (41)  True
+end2 (70) <= end1 (67)  False
+
+top  24 74 73 73
+
+top  10 98 94 97
+
+bot  74 83 56 85
+start2 (56) <= start1 (74)  True
+end2 (85) <= end1 (83)  False
+
+bot  18 35 18 52
+start2 (18) <= start1 (18)  True
+end2 (52) <= end1 (35)  False
+
+bot  98 99 1 99
+start2 (1) <= start1 (98)  True
+end2 (99) <= end1 (99)  True
+
+top  2 62 13 61
+
+top  17 40 36 40
+
+bot  8 89 5 93
+start2 (5) <= start1 (8)  True
+end2 (93) <= end1 (89)  False
+
+bot  29 73 28 74
+start2 (28) <= start1 (29)  True
+end2 (74) <= end1 (73)  False
+
+top  21 96 21 95
+
+bot  67 86 66 87
+start2 (66) <= start1 (67)  True
+end2 (87) <= end1 (86)  False
+
+top  23 83 82 82
+
+bot  96 97 17 97
+start2 (17) <= start1 (96)  True
+end2 (97) <= end1 (97)  True
+
+bot  23 54 22 55
+start2 (22) <= start1 (23)  True
+end2 (55) <= end1 (54)  False

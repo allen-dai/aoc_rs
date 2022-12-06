@@ -1,0 +1,18 @@
+f = open("./in.1")
+L = {"A": 1, "B": 2, "C": 3 }
+R = {"Y": 1, "X": 2, "Z": 3 }
+WIN = set(["XA", "ZB", "YC"])
+
+score = 0
+
+for line in f:
+    line = line.strip()
+    l, r = line.split(" ")
+    if r+l in WIN:
+        score += R[r] + 6
+    elif R[r] == L[l]:
+        score += R[r] + 3
+    else:
+        score += R[r]
+
+print(score)
